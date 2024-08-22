@@ -1,5 +1,5 @@
-<h3 align="center">Profile</h3>
-<h1 align="center">Lorenzo Melara✉️ :envelope:	</h1>
+<h3 align="center">Profile✉️ :envelope:	</h3>
+<h1 align="center">Lorenzo Melara✉️</h1>
 <br>
 <h2 align="left">Informations</h2>
 <p align="left">
