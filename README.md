@@ -1,4 +1,4 @@
-<h1 align="center">REPOSITÒRIO</h1>
+<h1 align="center">PERFIL</h1>
 <h3 align="center">Lorenzo Melara👋 Estudante Frontend, CEDAB, 1A</h3>
 
 <h3 align="left">Informações do estudante:</h3>
