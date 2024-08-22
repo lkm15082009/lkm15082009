@@ -1,5 +1,5 @@
-<h1 align="center">Lorenzo Melara👋</h1>
-<h3 align="center">Estudante Frontend, CEDAB, 1A</h3>
+<h1 align="center">REPOSITÒRIO</h1>
+<h3 align="center">Lorenzo Melara👋 Estudante Frontend, CEDAB, 1A</h3>
 
 <h3 align="left">Informações do estudante:</h3>
 <p align="left">
