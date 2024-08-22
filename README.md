@@ -1,5 +1,5 @@
 <h3 align="center">Profile</h3>
-<h1 align="center">#Lorenzo Melara👋#</h1>
+<h1 align="center">Lorenzo Melara👋</h1>
 
 <h3 align="left">Informations</h3>
 <p align="left">
