@@ -1,4 +1,4 @@
-<h1 align="center">PERFIL</h1>
+<h3 align="center">PERFIL</h3>
 <h1 align="center">Lorenzo Melara👋</h1>
 
 <h3 align="left">Informações do estudante:</h3>
