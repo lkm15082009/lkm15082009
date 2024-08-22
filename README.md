@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Melara</h1>
 <h3 align="center">Frontend student in udemy</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Informations:</h3>
 <p align="left">
 </p>
 
