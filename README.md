@@ -1,7 +1,7 @@
 <h1 align="center">PERFIL</h1>
 <h2 align="center">Lorenzo Melara👋 Estudante Frontend, CEDAB, 1A</h2>
 
-<h2 align="left">Informações do estudante:</h2>
+<h3 align="left">Informações do estudante:</h3>
 <p align="left">
 </p>
 
