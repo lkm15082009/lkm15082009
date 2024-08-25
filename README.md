@@ -9,4 +9,3 @@
 <h2 align="center">Sites</h2>
 <h4 align="center">https://cute-cranachan-76df70.netlify.app/</h4>
 <h4 align="center">https://login-pagelanding.netlify.app/</h4>
-<h4 align="center">https://techbras.netlify.app/</h4>
