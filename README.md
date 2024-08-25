@@ -10,5 +10,5 @@
 
 
 <br>
-<h2 align="left">Sites</h2>
-<h4 align="left">https://techbras.netlify.app/</h4>
+<h2 align="center">Sites</h2>
+<h4 align="center">https://techbras.netlify.app/</h4>
