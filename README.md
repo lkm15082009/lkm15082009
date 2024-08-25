@@ -7,5 +7,5 @@
 
 <br>
 <h2 align="center">Sites</h2>
-<h4 align="center">[https://techbras.netlify.app](https://login-pagelanding.netlify.app/)/</h4>
+<h4 align="center">https://techbras.netlify.app](https://login-pagelanding.netlify.app/)/</h4>
 <h4 align="center">https://techbras.netlify.app/</h4>
