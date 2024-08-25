@@ -1,7 +1,7 @@
 <h3 align="center">Profile✉️</h3>
 <h1 align="center">Lorenzo Melara</h1>
 <br>
-<h2 align="left">Frontend student, CEDAB</h2>
+<h2 align="center">Frontend student, CEDAB</h2>
 <p align="left">
 </p>
 
